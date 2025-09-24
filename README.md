@@ -5,6 +5,20 @@
 **Fecha:** [24-09-2025]
 
 ---
+## Cómo ejecutarlo paso a paso
+
+1. Clonar el repositorio:
+   git clone https://github.com/Pamela-Veloso/Proyecto-memorice-IA.git
+2. Entrar a la carpeta del proyecto:
+   cd Proyecto-memorice-IA
+3. Activar el entorno virtual (si usan Windows):
+   venv\Scripts\activate
+4. Instalar dependencias:
+   pip install -r requirements.txt
+   Dentro de esto esta la librería Pillow, sino correr el comando:
+   pip install pillow
+5. Ejecutar el juego:
+   python src/main.py
 
 ## Contenido del repositorio
 
